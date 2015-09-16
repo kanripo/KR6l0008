@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:39.549285
+#+DATE: 2015-08-30 20:47:51.417472
 #+TITLE: 阿毘曇八犍度論
 #+PROPERTY: CBETA_ID T26n1543
 #+PROPERTY: ID KR6l0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1543
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0008_T_007-0798a> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《阿毘曇八犍度論》卷第七¶
+《阿毘曇八犍度論犍度論》卷第七¶
 ¶
 迦旃延子造¶
 符秦罽賓三藏僧伽提婆¶
 共竺佛念譯¶
 
-3人跋渠
-:PROPERTIES:
-:head: 《阿毘曇》結使犍度人跋渠第三
-:END:
-¶
+《阿毘曇》結使犍度人跋渠第三¶
 
 #+BEGIN_VERSE
 「　二種界結幾果有五
@@ -139,7 +134,7 @@
 曰得。世尊弟子先滅四諦所斷結後思惟也。¶
 頗無色界結一時可繫耶。答曰。不得。一時得¶
 不繫耶。答曰。不得。漸得繫耶。答曰。不得。漸¶
-得不繫耶。答曰得。世尊弟子先滅四諦所¶
+得不繫耶。答曰得。世尊第子先滅四諦所¶
 斷結後思惟也(二種界竟)。¶
 
 欲界四諦所斷結盡為何果攝。答曰。四沙門¶

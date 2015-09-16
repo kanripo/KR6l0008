@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:39.527743
+#+DATE: 2015-08-30 20:47:51.392441
 #+TITLE: 阿毘曇八犍度論
 #+PROPERTY: CBETA_ID T26n1543
 #+PROPERTY: ID KR6l0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1543
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0008_T_006-0794a> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《阿毘曇八犍度論》卷第六¶
+《阿毘曇八犍度論》¶
 ¶
 迦旃延子造¶
 符秦罽賓三藏僧伽提婆¶
 共竺佛念譯¶
 
-:PROPERTIES:
-:head: 《阿毘曇》結使犍度一行跋渠之餘
-:END:
-¶
+《阿毘曇》結使犍度一行跋渠之餘¶
 
 身中有過去愛結繫。有過去未來現在瞋恚¶
 結乎。答曰。或有過去愛結繫。無過去未來現¶
@@ -368,10 +364,9 @@
 愛盡斷智得阿羅漢成就一斷智。一切結盡¶
 斷智。¶
 
-結使品一行犍度第二竟(梵本一千四十首盧秦萬一千九百¶
-二十二言)。¶
+結使品一行犍度第二竟(梵本一千四十首盧秦萬一千九百二十二言言)。¶
 
-阿毘曇一(行跋渠)。¶
+阿毘曇一行跋渠(行跋渠)。¶
 《阿毘曇八犍度論》卷第六
 <pb:KR6l0008_T_006-0798a>¶
 
