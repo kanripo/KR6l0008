@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:39.616920
+#+DATE: 2015-08-30 20:47:43.645623
 #+TITLE: 阿毘曇八犍度論
 #+PROPERTY: CBETA_ID T26n1543
 #+PROPERTY: ID KR6l0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1543
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0008_T_009-0812a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
-
- 《阿毘曇八犍度論》卷第九¶
+《阿毘曇八犍度論》卷第九¶
 ¶
-迦旃延子造¶
-符秦罽賓三藏僧伽提婆¶
+迦旃延子造符秦罽賓三藏僧伽提婆¶
 共竺佛念譯¶
 
-3智犍度
-:PROPERTIES:
-:head: 智犍度第三
-:END:
-¶
+智犍度第三三¶
 
 五跋渠頌曰。¶
 
@@ -33,11 +27,7 @@
 #+END_VERSE
 」¶
 
-1八道跋渠
-:PROPERTIES:
-:head: 《阿毘曇》八道跋渠第一
-:END:
-¶
+《阿毘曇》八道跋渠第一¶
 
 #+BEGIN_VERSE
 「　八十種智
@@ -488,6 +478,6 @@
 就。¶
 
 阿毘曇智犍度八十種跋渠第一竟(梵本四百¶
-三十三首盧秦七千二百四十六言)。¶
+三十三首盧秦七千二百四十六言二百四十六言)。¶
 《阿毘曇八犍度論》卷第九¶
 

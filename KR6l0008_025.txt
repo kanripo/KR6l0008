@@ -1,36 +1,27 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:40.074029
+#+DATE: 2015-08-30 20:47:44.031460
 #+TITLE: 阿毘曇八犍度論
 #+PROPERTY: CBETA_ID T26n1543
 #+PROPERTY: ID KR6l0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1543
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0008_T_025-0887b> 
 #+PROPERTY: JUAN 25
 ¶
-
- 《阿毘曇八犍度論》卷第二十五¶
+《阿毘曇八犍度論》卷第二十五¶
 ¶
 迦旃延子造¶
 符秦罽賓三藏僧伽提婆¶
 共竺佛念譯¶
 
-7定犍度
-:PROPERTIES:
-:head: 定犍度第七(盡三十八品)
-:END:
-¶
+定犍度第七(盡三十八品)¶
 
 　過去得　是謂緣　解脫　阿那含　一¶
 行觀在後¶
 
-1過去得跋渠
-:PROPERTIES:
-:head: 《阿毘曇》過去得跋渠第一之一
-:END:
-¶
+《阿毘曇》過去得跋渠第一之一¶
 
 若得過去法彼得過去。設得過去彼得過去¶
 法。若未來現在。善不善無記。欲界繫色界繫¶
